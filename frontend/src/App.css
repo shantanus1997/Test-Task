@@ -1,0 +1,30 @@
+
+.input-box>span{
+  padding-bottom: 20px;
+}
+
+.form-group label {
+  font-size: 14px;
+}
+.btn{
+  padding:15px;
+  margin:15px
+}
+.dro{
+  width:150px;
+}
+
+thead {
+  border-bottom: 2px solid black;
+}
+
+tbody {
+  border-top: 2px solid black;
+}
+th {
+  border-right: 2px solid black;
+}
+
+th:last-child {
+  border-right: none;
+}
